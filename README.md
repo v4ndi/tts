@@ -27,7 +27,7 @@
 
 ### Обучение
 * Модель обучалась в `fp16`.
-* Лосс функция была позаимствана из реалзиации [tacotron2](https://github.com/NVIDIA/tacotron2/blob/master/loss_function.py).
+* Лосс функция была позаимствована из реалзиации [tacotron2](https://github.com/NVIDIA/tacotron2/blob/master/loss_function.py).
 
 ### Логи
 ![](materials/loss.png)
